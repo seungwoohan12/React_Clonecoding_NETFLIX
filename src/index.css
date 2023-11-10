@@ -32,3 +32,41 @@
   justify-content: space-between;
   align-items: center;
 }
+.overview {
+  color: white;
+  position: absolute;
+  background-color: #0808086e;
+  height: 470px;
+  top: 0;
+  left: 0;
+  border-radius: 0px 0px 10px 10px;
+}
+.hovername {
+  margin: 20px;
+}
+.hoveroverview {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.header {
+  width: 100%;
+  background-color: #032541;
+  display: flex;
+  text-align: center;
+}
+.logo {
+  width: 154px;
+  height: 20px;
+  margin-top: 16px;
+  margin-left: 80px;
+  margin-right: 10px;
+}
+.headermenu {
+  list-style: none;
+  padding: 0;
+}
+.headermenu li {
+  color: white !important;
+  float: left;
+  padding-left: 25px;
+}
